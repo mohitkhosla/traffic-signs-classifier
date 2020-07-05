@@ -2,8 +2,8 @@
 
 Refer the following two notebooks for implementation
 
-1. [Traffic sign shapes classifier]
-2. [Traffic sign classifier]
+1. [Traffic sign shapes classifier](https://github.com/mohitkhosla/traffic-signs-classifier/blob/master/shapes-classifier.ipynb)
+2. [Traffic sign classifier](https://github.com/mohitkhosla/traffic-signs-classifier/blob/master/signs-classifier.ipynb)
 
 ## Abstract
 The purpose of this project is to build two highly robust classification models, one of which is capable to classify the road traffic signs and the other is capable to classify the shapes of the traffic signs using deep learning. The models are implemented using Convolutional neural network (CNN) and are similar to AlexNet. The dataset used is a subset of Belgium Traffic Sign Classification Benchmark. Both the models gave validation and test accuracy above 98%.
