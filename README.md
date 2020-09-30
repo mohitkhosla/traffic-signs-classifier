@@ -62,7 +62,7 @@ I have followed a basic approach to build the convolutional neural network by co
 
 
 ## Conclusion
-The project covers how deep learning can be used for classification of traffic signs and shapes by applying various pre-processing, regularization and data augmentation techniques on different CNN architectures.
+The project covers how deep learning can be used for classification of traffic signs and shapes by applying various pre-processing, regularization and data augmentation techniques on different CNN architectures. The overall developed model was tested on Chinese and German Traffic Signs for independent evaluation.
 
 
 
